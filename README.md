@@ -9,4 +9,5 @@ Installation
 ------------
 
 * Download Pizza.crx ([direct download](https://github.com/leeanndrees/lose-weight-to-get-pizza/blob/master/Pizza.crx?raw=true))
-* In Chrome, choose Window > Extensions.  Drag Pizza.crx into the page that appears.
+* In Chrome, choose Window > Extensions.  
+* Drag Pizza.crx into the page that appears.
